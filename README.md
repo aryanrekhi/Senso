@@ -1,6 +1,6 @@
-# Senso : hesitation is defeat
+# Senso : Hesitation is defeat
 
-
+WARNING : THIS PROJECT IS A WORK IN PROGESS!
 
 Included mechanics:    
 - Movement: WASD    
