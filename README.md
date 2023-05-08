@@ -1,7 +1,5 @@
-# Third-person fighting
+# Senso : hesitation is defeat
 
-This repository contains a simple fighting game with the third-person camera view on Unity.    
-As such, there is no point in the game, it is more a prototype than a full-fledged project, but it is what it is.
 
 
 Included mechanics:    
